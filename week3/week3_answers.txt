@@ -1,0 +1,10 @@
+The server process with the highest memory was user:whoopsie pid:720  with 8.5 memory usage
+
+
+
+
+while in the htop it seems that there is 8 groups for the Ubuntu distribution
+
+ 
+
+There are more than 1900 executable files in /usr/bin
