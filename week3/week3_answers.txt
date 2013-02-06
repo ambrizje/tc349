@@ -8,3 +8,10 @@ while in the htop it seems that there is 8 groups for the Ubuntu distribution
  
 
 There are more than 1900 executable files in /usr/bin
+
+
+Downloaded sudo apt-get php5-cli 
+then I went into the interactive shell 
+but i could not get the script to work.
+
+Server Timezone:wed Feb 6 00:23:00 
